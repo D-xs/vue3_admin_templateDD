@@ -6,7 +6,7 @@ createApp(App).mount('#app')
 const fun = () =>
  {
 
-console.log('hahha')
+console.log('wokankan')
 
 }
 
