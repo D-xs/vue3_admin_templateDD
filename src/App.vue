@@ -5,9 +5,7 @@
 
 <script lang="ts" setup name="App">
 let fun = () => {
-
   console.log('ss')
-
 }
 fun()
 </script>
